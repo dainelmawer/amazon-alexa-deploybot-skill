@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Environment",
+          "type": "NUMBER"
+        }
+      ],
+      "intent": "deployEnvironment"
+    }
+  ]
+}
